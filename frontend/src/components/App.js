@@ -1,4 +1,3 @@
-//This component handles the App template used on every page
 import React, {PropTypes} from 'react';
 import {connect} from 'react-redux';
 import Header from './common/Header';
